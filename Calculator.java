@@ -8,10 +8,12 @@ calc.add();
 }
 	public void add()
 	{
+		System.out.println("addition");
 	System.out.println(10+5);
 	}
 	public void subtract()
 	{
+		System.out.println("deletion");
 	System.out.println(10 - 5);
 	}
 }
